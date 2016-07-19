@@ -1,3 +1,5 @@
+The resulting page : http://auraoupa.github.io/
+
 # front cover jekyll theme
 
 ## Why choose this jekyll theme for your front page?
